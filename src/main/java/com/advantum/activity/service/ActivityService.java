@@ -12,7 +12,7 @@ import java.util.List;
 /**
  * Allows operations on Activity business object according to business rules.
  *
- * @author José Sevila <josevilah@gmail.com>
+ * @author Denis Bell
  */
 @Service
 public class ActivityService {

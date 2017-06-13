@@ -15,7 +15,7 @@ import java.util.Date;
 import java.util.List;
 
 /**
- * @author José Sevila <josevilah@gmail.com>
+ * @author Denis Bell
  */
 @RunWith(SpringJUnit4ClassRunner.class)
 @Transactional()

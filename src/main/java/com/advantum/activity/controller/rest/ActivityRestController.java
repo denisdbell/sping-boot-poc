@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 /**
- * @author José Sevila <josevilah@gmail.com>
+ * @author Denis Bell
  */
 @RestController
 @RequestMapping("api/activities")
