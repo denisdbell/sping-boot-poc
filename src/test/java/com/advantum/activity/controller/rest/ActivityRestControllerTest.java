@@ -16,9 +16,6 @@ import org.springframework.http.ResponseEntity;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @author José Sevila <josevilah@gmail.com>
- */
 public class ActivityRestControllerTest {
 
     @Mock
