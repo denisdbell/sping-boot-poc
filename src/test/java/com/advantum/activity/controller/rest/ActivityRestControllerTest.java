@@ -16,9 +16,11 @@ import org.springframework.http.ResponseEntity;
 import java.util.ArrayList;
 import java.util.List;
 
+
 /**
  * @author Denis Bell
  */
+
 public class ActivityRestControllerTest {
 
     @Mock
